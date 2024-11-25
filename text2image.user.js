@@ -4,6 +4,7 @@
 // @version      2.0
 // @description  按下快捷键将选中文字转为图片并复制到剪贴板，
 // @author       Cycle Bai
+// @license      LGPL
 // @match        *://*/*
 // @grant        GM_setValue
 // @grant        GM_getValue
